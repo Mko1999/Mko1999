@@ -1,3 +1,15 @@
-- 👋 Hi there, I’m Mkrtich Okroyan. I am a front-end developer with the knowledge of latest technologies and standarts. I want to evolve my skills to become a good programmer. I am eager to learn new technologies and always expand my knowledge.Right now I am also learning Backend development,Databases to become a demanded specialist.
+# 👋 Hi, I'm [Mkrtich Okroyan]
+
+I'm a frontend developer specializing in **React** and modern JavaScript. I enjoy building clean, responsive UIs and turning ideas into interactive web apps.
+
+## 🚀 Tech Stack
+- React, Next.js, JavaScript, TypeScript
+- HTML, CSS, MUI, Styled-Components
+- Git, GitHub, REST APIs, Vite, Webpack
+
+## 📫 Let's Connect
+- LinkedIn: [https://www.linkedin.com/in/mkrtich-okroyan-826b8020b/]
+
+Thanks for stopping by! 👨‍💻
 
 
