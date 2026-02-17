@@ -1,12 +1,11 @@
 # 👋 Hi, I'm [Mkrtich Okroyan]
 
-I'm a frontend developer specializing in **React** and modern JavaScript. I enjoy building clean, responsive UIs and turning ideas into interactive web apps.
+Full-stack developer building AI-powered web applications. 5+ years of experience shipping production React apps — now expanding into backend and AI integration.
 
 ## 🚀 Tech Stack
-- React, Next.js, Node.JS, Express JS, JavaScript, TypeScript
-- GraphQL, Apollo GraphQL
-- MUI, Chakra UI, Styled-Components
-- Git, GitHub, REST APIs, Vite, Webpack
+- Frontend: React, Next.js, TypeScript, MUI, Chakra UI, Styled-Components
+- Backend: Node.js, Express, MongoDB, GraphQL, Apollo
+- AI & Tools: OpenAI API, RAG pipelines, Vite, Webpack, Git
 
 ## 📫 Let's Connect
 - LinkedIn: [https://www.linkedin.com/in/mkrtich-okroyan-826b8020b/]
